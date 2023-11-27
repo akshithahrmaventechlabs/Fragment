@@ -9,7 +9,7 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:layout_marginTop="20dp"
-        android:text="First Page"
+        android:text="Second Page"
         android:textSize="24sp"
         android:textStyle="bold"
         android:textColor="#333333" />
